@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Cactus Theme</title>
+    <link>https://ianrangel.000webhostapp.com/posts/</link>
+    <description>Recent content in Posts on Hugo Cactus Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Oct 2017 15:32:25 -0700</lastBuildDate>
+    
+	<atom:link href="https://ianrangel.000webhostapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post 1</title>
+      <link>https://ianrangel.000webhostapp.com/posts/post-1/</link>
+      <pubDate>Thu, 05 Oct 2017 15:32:25 -0700</pubDate>
+      
+      <guid>https://ianrangel.000webhostapp.com/posts/post-1/</guid>
+      <description>O Ian é viadinho</description>
+    </item>
+    
+    <item>
+      <title>Post 2</title>
+      <link>https://ianrangel.000webhostapp.com/posts/post-2/</link>
+      <pubDate>Thu, 05 Oct 2017 15:32:25 -0700</pubDate>
+      
+      <guid>https://ianrangel.000webhostapp.com/posts/post-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post 3</title>
+      <link>https://ianrangel.000webhostapp.com/posts/post-3/</link>
+      <pubDate>Thu, 05 Oct 2017 15:32:25 -0700</pubDate>
+      
+      <guid>https://ianrangel.000webhostapp.com/posts/post-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post 4</title>
+      <link>https://ianrangel.000webhostapp.com/posts/post-4/</link>
+      <pubDate>Thu, 05 Oct 2017 15:32:25 -0700</pubDate>
+      
+      <guid>https://ianrangel.000webhostapp.com/posts/post-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
